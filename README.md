@@ -1,8 +1,3 @@
-# Realtime-Face-Emotion-Recognition
-Absolutely! Here's a simple and clean `README.md` template you can use for your GitHub project:
-
----
-
 # Emotion Detection with DeepFace and OpenCV 🎭📸
 
 This project uses DeepFace and OpenCV to detect human emotions in real-time through webcam video feed.
